@@ -1,6 +1,10 @@
-### README.md
+---
+layout: home
+nav_order: 1
+title: Accueil
+---
 
-[](https://trans80.hautsdefrance.fr/build/images/top.20e1e8a2.png)
+![](https://trans80.hautsdefrance.fr/build/images/top.20e1e8a2.png)
 # Projet Trans'80
 
 ## Auteurs
@@ -15,12 +19,12 @@ Le projet Trans'80 vise à combler le manque d'application client pour le suivi 
 - Informations statiques
 
 Voici un exemple de fichier PDF de fiche horaire existant :
-[](./img/fiche_horaire.png)
+![](./img/fiche_horaire.png)
 
 Les fiches horaires peuvent être consultées sur le site [Trans'80](https://trans80.hautsdefrance.fr/horaire/).
 
 ## Structure du projet
-[](./img/structure.png)
+![](./img/structure.png)
 
 ### API's
 - Intégration des API de Ametis, SNCF, et Google Maps pour offrir des fonctionnalités avancées.
@@ -33,7 +37,7 @@ Les fiches horaires peuvent être consultées sur le site [Trans'80](https://tra
 
 ### Application mobile
 L'application mobile se compose de plusieurs modules :
-[](./img/module.png)
+![](./img/module.png)
 
 ## Promesses non tenues
 Malgré les efforts déployés, certaines promesses n'ont pas pu être tenues :
